@@ -49,6 +49,9 @@ const Footer = () => {
           </ul>
         </div>
       </div>
+      <div className="text-center mt-10 text-neutral-400">
+        © 2025 Riduan. All rights reserved.
+      </div>
     </footer>
   );
 };

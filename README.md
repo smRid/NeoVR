@@ -29,8 +29,8 @@ A lightweight and modular platform for building immersive 3D virtual experiences
 ## <a name="features">✨ Features</a>
 
 - 🌍 Immersive UI/UX – A sleek, modern interface optimized for a futuristic VR experience.
-- 📱  Responsive Design:** Fully optimized for desktop and mobile devices.
-- 🚀 Optimized Performance:** Fast loading with efficient state management.
+- 📱  Responsive Design: Fully optimized for desktop and mobile devices.
+- 🚀 Optimized Performance: Fast loading with efficient state management.
 - 📜 Engaging Content Layouts – Well-structured sections for seamless user flow.
 
 
